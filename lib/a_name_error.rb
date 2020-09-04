@@ -1,4 +1,4 @@
 def "hello world"
 
 end
-puts 
+puts
